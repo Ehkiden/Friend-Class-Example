@@ -1,0 +1,2 @@
+Good example of: 
+Friend Class implementation
